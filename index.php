@@ -118,22 +118,13 @@ if (isset($_GET['code'])) {
 	?>
 
 <!----//eacaba php---->
-							    	<h3>We Design <label>Creative Website</label> For Enterprising People</h3>
-							    	<span>Lorem ipsum dolor sit amet, consectetur adipisc ing elit.<i> Aliquam viverra consectetur nibh a blan dit. Proin at amet consectetur adipisc lacinia nunc.</i></span>
+							    	<h3>somos <label>Kiosko</label> para todos</h3>
+							    	<span>Hola<i> liquidez de la gente</i></span>
 							    	<a class="slide-btn" href="#">View Projects</a>
 							    </div>
 							  </li>
 							  <li>
 							    <a href="#slide2">
-							    </a>
-							      <div class="slider-detils">
-							    	<h3>We Design <label>Creative Website</label> For Enterprising People</h3>
-							    	<span>Lorem ipsum dolor sit amet, consectetur adipisc ing elit.<i> Aliquam viverra consectetur nibh a blan dit. Proin at amet consectetur adipisc lacinia nunc.</i></span>
-							    	<a class="slide-btn" href="#">View Projects</a>
-							    </div>
-							  </li>
-							  <li>
-							    <a href="#slide3">
 							    </a>
 							      <div class="slider-detils">
 							    	<h3>We Design <label>Creative Website</label> For Enterprising People</h3>
