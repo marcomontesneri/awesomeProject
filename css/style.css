@@ -45,7 +45,7 @@ body{
 }
 /*----start-header---*/
 .header{
-	background: rgba(0, 0, 0, 0.56);
+	background: rgb(86, 71, 94);
 	width: 100%;
 }
 .logo{
@@ -78,11 +78,11 @@ body{
 /*----start-header---*/
 /*--- start-top-grids----*/
 .top-grids{
-	background:#E66768;
+	background:#e8dfcd;
 }
 .top-grids h3{
 	text-align: center;
-	color: #FAC81B;
+	color: #3d0d47;
 	font-weight: 700;
 	font-size: 1.5em;
 }
@@ -101,7 +101,7 @@ body{
 	margin-right:0;
 }
 .top-grid h4 a{
-	color: #FFF;
+	color: #3d0d47;
 	font-size: 1.5em;
 	padding: 0.8em 0 0.5em 0;
 	display: block;
@@ -111,7 +111,7 @@ body{
 	-o-transition:0.5s all;
 }
 .icon1,.icon2,.icon3,.icon4{
-	background: #DD5E5F;
+	background: #ee9e12;
 	height: 140px;
 	width: 140px;
 	display: inline-block;
@@ -159,7 +159,7 @@ body{
 .top-grid p{
 	font-size: 0.9em;
 	line-height: 1.8em;
-	color: #FFF;
+	color: #3d0d47;
 	margin: 0.2em 0 1em;
 }
 .top-grid:hover .icon1,.top-grid:hover .icon2,.top-grid:hover .icon3,.top-grid:hover .icon4{
