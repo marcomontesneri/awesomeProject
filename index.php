@@ -116,9 +116,12 @@ if (isset($_GET['code'])) {
 	}
 
 	?>
+	<form method="post" action="<?php echo $PHP_SELF;?>">
+First Name:<input type="text" size="12" maxlength="12" name="Fname">:<br />
+Last Name:<input type="text" size="12" maxlength="36" name="Lname">:<br />
 
 <!----//eacaba php---->
-							    	<h3>somos <label>Kiosko</label> para todos</h3>
+							    	<h3> <label>Saldo.mx</label> Banks of the West</h3>
 							    	<span>Hola<i> liquidez de la gente</i></span>
 							    	<a class="slide-btn" href="#">View Projects</a>
 							    </div>
